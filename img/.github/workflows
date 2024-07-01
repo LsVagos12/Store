@@ -22,4 +22,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: username/repo-name:latest
+        tags: yohanesap/yap:latest
